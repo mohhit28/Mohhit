@@ -1,4 +1,5 @@
-# Mohhit
+# Mohit
+![logo](https://github.com/mohhit28/Mohhit/blob/main/1.jpg)
 <h1 align="center">Hi 👋, I'm Mohit Ranjan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
